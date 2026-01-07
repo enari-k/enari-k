@@ -1,4 +1,4 @@
-# Hi there, I'm enari-K 👋
+# Hi there, I'm enari_K 👋
 
 東京科学大学（Institute of Science Tokyo）で材料工学を専攻しながら、デジタル創作サークル **traP** でエンジニア・ゲームクリエイターとして活動しています。
 「仕組みを知る」ことと「ものづくり」の両面から、広範な技術領域を探索しています。
