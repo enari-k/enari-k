@@ -1,3 +1,5 @@
+Languages [日本語](README.md) / [English](README.en.md)
+
 # Hi there, I'm enari_K 👋
 
 東京科学大学（Institute of Science Tokyo）で材料工学を専攻しながら、デジタル創作サークル **traP** でエンジニア・ゲームクリエイターとして活動しています。
