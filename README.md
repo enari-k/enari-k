@@ -18,7 +18,7 @@ Languages [日本語](README.md) / [English](README.en.md)
     <img src="https://atcoder-stats.s606.net/api?username=enari_K" alt="AtCoder Stats" height="120px" />
   </a>
   <a href="https://leetcode.com/enari-k">
-    <img src="https://leetcode-stats-six.vercel.app/?username=enari-k&theme=dark" alt="LeetCode Stats" height="120px" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=enari_K&theme=dark" alt="LeetCode Stats" height="120px" />
   </a>
 </p>
 
