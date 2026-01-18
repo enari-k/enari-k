@@ -1,3 +1,5 @@
+Languages [日本語](README.md) / [English](README.en.md)
+
 # Hi there, I'm enari_K 👋
 
 I major in Materials Science and Engineering in Institute of Science Tokyo and active as an engineer and game creater in traP which is club activity of digital creatives.
