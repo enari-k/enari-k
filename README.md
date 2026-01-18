@@ -36,11 +36,11 @@ Languages [日本語](README.md) / [English](README.en.md)
 ### 🚀 Projects & Focus
 現在、以下の領域に深く注力しています。
 
-- **Game Development:** - **[悪夢祓いのアリス](https://store.steampowered.com/app/3493230/_/)** (Steam) のメイン開発（シナリオ・イラスト・プログラム）。
+- **Game Development:** - **[悪夢祓いのアリス](https://store.steampowered.com/app/3493230/_/)** (Steam) の開発。
   - Unity/C#を用いた物理ベースのゲーム制作、物理エンジンの自作。
 - **Low-level / Infrastructure:** - **Nand to Tetris:** コンピュータの論理ゲートからOS層までのビルドアップ。
   - C++を用いた非線形最小二乗法アルゴリズムのスクラッチ実装。
-  - 外部フレームワークに頼らないモダンWeb制作と部内SNS（traP）の運用。
+  - 外部フレームワークに頼らないモダンWeb制作と部内SNSの開発・運用。
 - **Academic Synergy:** - 材料工学（結晶構造・力学）の知見をシミュレーションや物理エンジンへ応用。
 
 ---
