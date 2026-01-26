@@ -13,15 +13,6 @@ Languages [日本語](README.md) / [English](README.en.md)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enari-k&layout=compact&theme=radical&hide=html,css" alt="Top Langs" height="180px" />
 </p>
 
-<p align="left">
-  <a href="https://atcoder.jp/users/enari_K">
-    <img src="https://atcoder-stats.s606.net/api?username=enari_K" alt="AtCoder Stats" height="120px" />
-  </a>
-  <a href="https://leetcode.com/enari_K">
-    <img src="https://leetcode-stats-six.vercel.app/?username=enari_K&theme=dark" alt="LeetCode Stats" height="120px" />
-  </a>
-</p>
-
 ---
 
 ### 🎖 Key Achievements
