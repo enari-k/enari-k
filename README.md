@@ -53,4 +53,4 @@ Languages [日本語](README.md) / [English](README.en.md)
 - 🎮 [Unityroom](https://unityroom.com/users/p6u9bwyk408j5sm3lqvh)
 - 📝 [SlideShare](https://www.slideshare.net/rintakano624)
 
-> **「材料工学のドメイン知識」×「CSの低レイヤ技術」**の掛け合わせで、独自の価値創造を目指しています。
+> **「材料工学のドメイン知識」×「CSの低レイヤ技術**」の掛け合わせで、独自の価値創造を目指しています。
