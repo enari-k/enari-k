@@ -18,7 +18,7 @@ Languages [日本語](README.md) / [English](README.en.md)
 ### 🎖 Key Achievements
 <p align="left">
   <img src="https://img.shields.io/badge/AtCoder_Heuristic-Max_Perf_1854-blue?style=flat-square&logo=atcoder" />
-  <img src="https://img.shields.io/badge/Game_Creator_Koshien_2025-Finalist_Nominee-red?style=flat-square&logo=unity" />
+  <img src="https://img.shields.io/badge/Game_Creator_Koshien_2025-Semi-Finalist_Nominee-red?style=flat-square&logo=unity" />
   <img src="https://img.shields.io/badge/PR_TIMES_HACKATHON-Golden_Scout-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Project-Nand2Tetris_Completed-orange?style=flat-square&logo=cpu" />
   <img src="https://img.shields.io/badge/Certification-Applied_Info_Basics_Badge-blue?style=flat-square" />
