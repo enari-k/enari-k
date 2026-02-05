@@ -7,14 +7,6 @@ Languages [日本語](README.md) / [English](README.en.md)
 
 ---
 
-### 📊 Vital Stats & Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=enari-k&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enari-k&layout=compact&theme=radical&hide=html,css" alt="Top Langs" height="180px" />
-</p>
-
----
-
 ### 🎖 Key Achievements
 <p align="left">
   <img src="https://img.shields.io/badge/AtCoder_Heuristic-Max_Perf_1854-blue?style=flat-square&logo=atcoder" />
